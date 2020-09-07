@@ -10,7 +10,7 @@
 | 19/0134623  |  Marcos Diego da Silva Gomes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto tem como objetivo utilizar o conceito de grafos no ambiente de viagens aéreas para definir as opções de vôos, dado um aeroporto de origem e de destino. Utilizando a busca em largura (BFS) é demonstrado ao usuário as opções de aeroportos pelos quais passar para alcançar o aeroporto de destino.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
@@ -24,7 +24,7 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Dados de viagens aéreas coletados pela Agência Nacional de Aviação Civil (ANAC).
 
 
 
