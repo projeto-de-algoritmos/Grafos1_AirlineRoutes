@@ -13,7 +13,12 @@
 O projeto tem como objetivo utilizar o conceito de grafos no ambiente de viagens aéreas para definir as opções de vôos, dado um aeroporto de origem e de destino. Utilizando a busca em largura (BFS) é demonstrado ao usuário as opções de aeroportos pelos quais passar para alcançar o aeroporto de destino.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+#### Grafo completo
+![complete_graph](image/complete_graph.png)
+#### Árvore de nós visitados pelo BFS
+![traversal_tree](image/traversal_tree.png)
+#### Caminho percorrido do nó inicial ao nó final
+![path](image/path.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
