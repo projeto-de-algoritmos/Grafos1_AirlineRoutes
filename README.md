@@ -22,9 +22,15 @@ O projeto tem como objetivo utilizar o conceito de grafos no ambiente de viagens
 
 ## Instalação 
 **Linguagem**: Python<br>
-É necessário ter instalado o **Python** o **pip** na máquina para executar o projeto.
+É necessário ter instalado o **Python** e o **pip** para executar o projeto (é recomendado utilizar um ambiente virtual para instalar e executar o projeto).
 
-1. Instale as bibliotecas necessário. (É recomendado utilizar um ambiente virtual para instalar e executar o projeto) <br>
+- Para instalar o gerenciador de pacotes pip:<br>
+    ``` sudo apt-get install python3-pip ```
+    
+- Clone o repositório:<br>
+    ``` git clone https://github.com/projeto-de-algoritmos/Grafos1_AirlineRoutes ```
+
+- Instale as bibliotecas necessárias:<br>
     ``` pip install -r requirements.txt ```
 
 ## Uso 
